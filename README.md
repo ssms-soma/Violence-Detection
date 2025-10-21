@@ -32,4 +32,3 @@ cd violence-detection
 pip install -r requirements.txt
 ```
 
-**Requirements:** `tensorflow`, `numpy`, `pandas`, `opencv-python`, `matplotlib`, `kagglehub`
