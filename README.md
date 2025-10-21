@@ -7,7 +7,7 @@ A deep learning system that automatically classifies video frames as **Violence*
 **Source:** [Real-Life Violence Dataset](https://www.kaggle.com/datasets/karandeep98/real-life-violence-and-nonviolence-data)
 - 11,063 frames (8,851 train / 2,212 val)
 - Binary classification: Violence vs Non-Violence
-- Image size: 224×224 pixels
+- Image size: 224×224 pixel
 
 ## 🚀 Models & Results
 
